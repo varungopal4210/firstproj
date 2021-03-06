@@ -1,0 +1,73 @@
+body{
+    background-color:#140C63;
+     
+}
+.heading{
+    padding-bottom:20px;
+    border-bottom:1px #f18d3f dotted;
+    margin:40px;
+}
+.heading1{
+    color:  #f18d3f;
+    font-family: Muli,sans-serif;
+    font-size:36px;
+    font-weight:800;
+    text-decoration: none;
+      
+}
+.heading2{
+    color:  #F18D3F;
+    font-family: "Muli" ,sans-serif;    
+    font-size:24px;
+    font-weight:200;
+}
+.heading h2{
+    color:  #f18d3f;
+    font-family: "Geomanist Regular";
+    font-size:21px;
+    font-weight:400;
+}
+.mains{
+    color: white;
+    text-align: center;
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:10%;
+    font-family: "Muli",sans-serif;
+    font-weight:400;
+    font-size:22px;
+    line-height:30px ;
+    margin-bottom:70px;
+
+}
+.end{
+    padding:4% 8%;
+    background-color: #0D0931;  
+
+}
+
+.cog{
+    color:#cecdd6;
+    padding-right:15px;
+    float:right;
+
+}
+.slline{
+    font-family:"Muli",sans-serif;
+    text-align:right;
+    color:#ffffff;
+    font-weight:400;
+    font-size:16px;
+}
+.lline{
+    font-family:"Muli",sans-serif;
+    text-align:center;
+    color:#ffffff;
+    font-weight:300;
+    font-size:16px;
+
+}
+.csa{
+    color:#f18d3f;
+}
+    
